@@ -1,4 +1,4 @@
-# Cincinnati Graph Data
+# Cincinnati Graph Data 
 
 [Cincinnati][] is an update protocol designed to facilitate automatic updates.
 This repository manages the Cincinnati graph for OpenShift.
