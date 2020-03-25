@@ -1,0 +1,5 @@
+name: stable-4.8
+versions:
+
+# Errata: https://some.com/value
+- 4.8.101
