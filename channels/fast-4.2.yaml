@@ -41,3 +41,6 @@ versions:
 - 4.2.18
 - 4.2.19
 - 4.2.20
+
+# Errata: https://some.com/value
+- 4.2.102
